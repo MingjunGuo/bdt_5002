@@ -1,0 +1,61 @@
+['onions']
+['hygiene articles']
+['berries']
+['hamburger meat']
+['UHT-milk']
+['sugar']
+['dessert']
+['long life bakery product']
+['salty snack']
+['waffles']
+['cream cheese ']
+['white bread']
+['chicken']
+['frozen vegetables']
+['chocolate']
+['napkins']
+['beef']
+['curd']
+['butter']
+['pork']
+['coffee']
+['margarine']
+['frankfurter']
+['domestic eggs']
+['brown bread']
+['whipped/sour cream']
+"['whipped/sour cream', 'whole milk']"
+['fruit/vegetable juice']
+['pip fruit']
+['canned beer']
+['newspapers']
+['bottled beer']
+['citrus fruit']
+"['citrus fruit', 'whole milk']"
+['pastry']
+"['pastry', 'whole milk']"
+['sausage']
+"['sausage', 'rolls/buns']"
+['shopping bags']
+['tropical fruit']
+"['tropical fruit', 'other vegetables']"
+"['tropical fruit', 'whole milk']"
+['root vegetables']
+"['root vegetables', 'other vegetables']"
+"['root vegetables', 'whole milk']"
+['bottled water']
+"['bottled water', 'whole milk']"
+['yogurt']
+"['yogurt', 'rolls/buns']"
+"['yogurt', 'other vegetables']"
+"['yogurt', 'whole milk']"
+['soda']
+"['soda', 'other vegetables']"
+"['soda', 'rolls/buns']"
+"['soda', 'whole milk']"
+['rolls/buns']
+"['rolls/buns', 'other vegetables']"
+"['rolls/buns', 'whole milk']"
+['other vegetables']
+"['other vegetables', 'whole milk']"
+['whole milk']
